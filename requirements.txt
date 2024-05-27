@@ -1,1 +1,1 @@
-plotty.express
+plotly.express

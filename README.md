@@ -1,1 +1,1 @@
-Superporra OMIE 2024 en la web
+Clasificación general del MVPStarPower 2024
